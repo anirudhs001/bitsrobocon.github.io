@@ -1,3 +1,8 @@
+body, .footer
+{
+	background-color: #121212;
+}
+
 .top_section
 {
 	position: relative;
@@ -152,7 +157,7 @@
 
 .blogfooter a
 {
-	text-decoration: none;
+	text-decoration: underline;
 	color: #ffffff;
 	cursor: pointer;
 }
